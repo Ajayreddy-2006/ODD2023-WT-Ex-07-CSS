@@ -486,5 +486,5 @@ If applicable, toggle the system's dark mode setting and observe the webpage ada
 # Result :
 ## Therefore, functionalities of CSS media queries are clearly demonstrated using examples for each type.
 
-## Developed By : Santhan Kumar 
-## Register Number : 212223240065
+## Developed By : T.Ajay
+## Register Number : 212223230007
